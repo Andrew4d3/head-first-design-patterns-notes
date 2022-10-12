@@ -1,0 +1,27 @@
+{
+  "name": "head-first-design-patterns-notes",
+  "version": "1.0.0",
+  "description": "Personal Notes for Head First Design Patterns",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate01":"markdown-to-anki chapter01.md > chapter01.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew4d3/head-first-design-patterns-notes.git"
+  },
+  "keywords": [
+    "notes",
+    "design-patterns"
+  ],
+  "author": "Andrew4d3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andrew4d3/head-first-design-patterns-notes/issues"
+  },
+  "homepage": "https://github.com/Andrew4d3/head-first-design-patterns-notes#readme",
+  "dependencies": {
+    "markdown-to-anki": "^0.2.3"
+  }
+}
