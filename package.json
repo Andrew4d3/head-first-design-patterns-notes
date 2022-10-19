@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate01":"markdown-to-anki notes/chapter01.md > chapter01.txt",
     "generate02":"markdown-to-anki notes/chapter02.md > chapter02.txt",
-    "generate03":"markdown-to-anki notes/chapter03.md > chapter03.txt"
+    "generate03":"markdown-to-anki notes/chapter03.md > chapter03.txt",
+    "generate04":"markdown-to-anki notes/chapter04.md > chapter04.txt"
   },
   "repository": {
     "type": "git",
