@@ -8,7 +8,8 @@
     "generate01":"markdown-to-anki notes/chapter01.md > chapter01.txt",
     "generate02":"markdown-to-anki notes/chapter02.md > chapter02.txt",
     "generate03":"markdown-to-anki notes/chapter03.md > chapter03.txt",
-    "generate04":"markdown-to-anki notes/chapter04.md > chapter04.txt"
+    "generate04":"markdown-to-anki notes/chapter04.md > chapter04.txt",
+    "generate05":"markdown-to-anki notes/chapter05.md > chapter05.txt"
   },
   "repository": {
     "type": "git",
