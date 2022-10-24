@@ -11,7 +11,8 @@
     "generate04":"markdown-to-anki notes/chapter04.md > chapter04.txt",
     "generate05":"markdown-to-anki notes/chapter05.md > chapter05.txt",
     "generate06":"markdown-to-anki notes/chapter06.md > chapter06.txt",
-    "generate07":"markdown-to-anki notes/chapter07.md > chapter07.txt"
+    "generate07":"markdown-to-anki notes/chapter07.md > chapter07.txt",
+    "generate08":"markdown-to-anki notes/chapter08.md > chapter08.txt"
   },
   "repository": {
     "type": "git",
